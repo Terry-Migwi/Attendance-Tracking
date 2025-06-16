@@ -3,7 +3,7 @@ A Python script to automate the attendance tracking process for learners, signif
 
 
 ### Project Overview
-This project was developed to automate the learner attendance tracking process and to significantly reduce manual work and save time.
+This project was developed to automate the learner attendance tracking process to significantly reduce manual work and save time.
 
 Previously, marking attendance manually for approximately 100 learners took me about 30 minutes per session. With two sessions per week, that added up to 2 hours of repetitive work every week. To streamline this task, I created a Python script that now completes the process in under 5 minutes.
 
