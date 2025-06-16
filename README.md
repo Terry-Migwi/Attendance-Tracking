@@ -1,7 +1,7 @@
 # Attendance-Tracking
 A Python script to automate the attendance tracking process for learners, significantly reducing manual effort and improving efficiency.
 
-<img src = "https://github.com/Terry-Migwi/Attendance-Tracking/blob/main/assets/images/assets/images/attendance_tracking_ui.png)" width = "600" height = "600">
+<img src = "(https://github.com/Terry-Migwi/Attendance-Tracking/blob/main/assets/images/assets/images/attendance_tracking_ui.png)" width = "600" height = "600"> 
 
 ### Project Overview
 This project was developed to automate the learner attendance tracking process to reduce manual work and save time. Previously, marking attendance manually for approximately 100 learners took me about 30 minutes per session. With two sessions per week, that added up to 2 hours of repetitive work every week. To streamline this task, I created a Python script that now completes the process in under 5 minutes.
